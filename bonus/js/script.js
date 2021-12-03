@@ -12,7 +12,8 @@ const firstApp = new Vue (
             titleClass: 'blue',
 
 
-            imageSrc: 'https://blog.goway.com/globetrotting/wp-content/uploads/2014/07/dubai-skyline-impact-image-800x280.jpg'
+            imageSrc: 'https://blog.goway.com/globetrotting/wp-content/uploads/2014/07/dubai-skyline-impact-image-800x280.jpg',
+            imageClass: 'dubai_img'
         }
     }
 );
